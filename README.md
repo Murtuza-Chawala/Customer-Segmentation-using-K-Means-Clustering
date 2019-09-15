@@ -12,3 +12,8 @@ CustomerID,Genre,Age,Annual Income (k$),Spending Score (1-100)
 ...................
 # Final Output
 
+![K-Means Clustering](K-Means.png)
+
+
+
+
