@@ -2,7 +2,7 @@
 In this Machine Learning project,we cluster mall customers into different categories based on their annual income,spending score,age,gender etc using Machine Learning's K-Means Clustering Model.
 
 # Real Life use case
-Marketing - To target different types of customers with different types of promotion campaign.
+To identify different types of customers and assign each type a label.
 
 # A Sample from our Dataset
 CustomerID  ,Genre   ,Age   ,Annual Income (k$),   Spending Score (1-100)
